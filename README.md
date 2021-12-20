@@ -1,4 +1,4 @@
-# Ruby Starter Project
+# Temperature converter (lab 1)
 
 ![Unit Tests & Lint](https://github.com/MarkendroiD/TempConv/actions/workflows/main.yml/badge.svg)
 
