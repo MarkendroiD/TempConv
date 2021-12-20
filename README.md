@@ -1,6 +1,6 @@
 # Ruby Starter Project
 
-![Unit Tests & Lint](https://github.com/MarkendroiD/temp_converter/workflows/Unit%20Tests%20&%20Lint/badge.svg)
+![Unit Tests & Lint](https://github.com/MarkendroiD/TempConv/actions/workflows/main.yml/badge.svg)
 
 
 ## Install
